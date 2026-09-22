@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: 18 September 2026
+Last updated: 22 September 2026
 
 This policy explains how the Telegram bot **WohnKompass** ("we", "the bot")
 processes personal data under the EU General Data Protection Regulation
@@ -131,6 +131,7 @@ exclude the listing.
 | Usage events | 7 days |
 | Support messages | 12 months after the request is closed |
 | Referral and promo redemption records | as long as your account exists |
+| Record of free days received, after `/deleteme` (only a pseudonymised hash of your Telegram ID, no other data; only if you received a trial, campaign days or a referral bonus) | 24 months from deletion - prevents the same free days being claimed again by deleting and re-joining (Art. 6(1)(f) GDPR) |
 | Payment records (Stars and crypto) | 7 years from the end of the calendar year (§ 132 BAO), even after `/deleteme` |
 | Server logs | rotated automatically, at most 30 days |
 | Database backups | 30 days, then overwritten |

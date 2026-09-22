@@ -6,7 +6,7 @@ permalink: /datenschutz/
 
 # Datenschutzerklärung
 
-Stand: 18.09.2026
+Stand: 22.09.2026
 
 Diese Erklärung informiert darüber, wie der Telegram-Bot **WohnKompass**
 („wir", „der Bot") personenbezogene Daten nach der
@@ -143,6 +143,7 @@ ausgeschlossen.
 | Nutzungsereignisse | 7 Tage |
 | Support-Nachrichten | 12 Monate nach Abschluss der Anfrage |
 | Empfehlungs- und Promo-Einlösungsdaten | solange Ihr Konto besteht |
+| Nachweis bezogener Gratis-Tage nach `/deleteme` (nur ein pseudonymisierter Hashwert Ihrer Telegram-ID, keine weiteren Daten; nur wenn Sie eine Testphase, Kampagnen-Tage oder einen Empfehlungsbonus erhalten haben) | 24 Monate ab Löschung - verhindert, dass dieselben Gratis-Tage durch Löschen und Neuanmelden mehrfach bezogen werden (Art. 6 Abs. 1 lit. f DSGVO) |
 | Zahlungsbelege (Stars und Krypto) | 7 Jahre ab Ende des Kalenderjahres (§ 132 BAO), auch nach `/deleteme` |
 | Server-Logs | automatisch rotiert, höchstens 30 Tage |
 | Datenbank-Backups | 30 Tage, danach überschrieben |
