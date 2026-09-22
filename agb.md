@@ -6,7 +6,7 @@ permalink: /agb/
 
 # Allgemeine Geschäftsbedingungen (AGB)
 
-Stand: 18.09.2026
+Stand: 22.09.2026
 
 ## 1. Anbieter und Geltungsbereich
 
@@ -171,8 +171,7 @@ der Verweisungsnormen. Für Verbraucher:innen gilt diese Rechtswahl nur,
 soweit ihnen dadurch nicht der Schutz zwingender Bestimmungen ihres
 Aufenthaltsstaates entzogen wird (Art. 6 Rom-I-VO).
 
-12.2 Gerichtsstand für Unternehmer:innen ist [ORT DES SACHLICH ZUSTÄNDIGEN
-GERICHTS]. Verbraucher:innen mit Wohnsitz oder gewöhnlichem Aufenthalt in
+12.2 Gerichtsstand für Unternehmer:innen ist das sachlich zuständige Gericht in Wien, Österreich. Verbraucher:innen mit Wohnsitz oder gewöhnlichem Aufenthalt in
 Österreich können nur an diesem Ort geklagt werden (§ 14 KSchG); im Übrigen
 gelten die gesetzlichen Gerichtsstände.
 

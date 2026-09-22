@@ -83,8 +83,7 @@ saved search the service cannot work.
 
 ## 4. Recipients and processors
 
-- **Telegram** ([TELEGRAM ENTITY - verify in Telegram's current privacy
-  policy, e.g. Telegram FZ-LLC, Dubai, UAE]) -
+- **Telegram** -
   delivers all messages and processes Telegram Stars payments. Telegram's own
   privacy policy applies: <https://telegram.org/privacy>.
 - **Hosting provider:** Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Germany, data centre in Helsinki, Finland (EU/EEA) - runs the server,
@@ -166,8 +165,7 @@ residence.
 
 Access to the server is restricted to the operator. Connections to Telegram,
 portals, AI and payment providers are encrypted (TLS). Bot tokens and API
-keys are kept out of the code. Backups are stored [ENCRYPTED / ON THE SAME
-SERVER - specify]. No system is completely secure; we will notify you and
+keys are kept out of the code. Backups are stored encrypted (AES) on the same server. No system is completely secure; we will notify you and
 the authority of breaches as required by Art. 33-34 GDPR.
 
 ## 10. Cookies and tracking

@@ -91,9 +91,7 @@ gespeicherte Suche kann der Dienst aber nicht funktionieren.
 
 ## 4. Empfänger und Auftragsverarbeiter
 
-- **Telegram** ([TELEGRAM-GESELLSCHAFT - in der aktuellen
-  Datenschutzerklärung von Telegram prüfen, z. B. Telegram FZ-LLC, Dubai,
-  VAE]) - stellt alle Nachrichten zu und wickelt Zahlungen mit Telegram
+- **Telegram** - stellt alle Nachrichten zu und wickelt Zahlungen mit Telegram
   Stars ab. Es gilt die Datenschutzerklärung von Telegram:
   <https://telegram.org/privacy>.
 - **Hosting-Anbieter:** Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Deutschland, Rechenzentrum Helsinki, Finnland (EU/EWR) - betreibt Server,
@@ -179,16 +177,14 @@ oder bei der Aufsichtsbehörde Ihres EU-Wohnsitzstaates.
 
 Zugriff auf den Server hat nur der Betreiber. Verbindungen zu Telegram,
 Portalen, KI- und Zahlungsanbietern sind verschlüsselt (TLS). Bot-Token und
-API-Schlüssel liegen nicht im Code. Backups werden [VERSCHLÜSSELT / AUF
-DEMSELBEN SERVER - angeben] gespeichert. Kein System ist vollkommen sicher;
+API-Schlüssel liegen nicht im Code. Backups werden verschlüsselt (AES) auf demselben Server gespeichert. Kein System ist vollkommen sicher;
 bei Datenschutzverletzungen informieren wir Sie und die Behörde nach
 Art. 33-34 DSGVO.
 
 ## 10. Cookies und Tracking
 
 Der Bot setzt keine Cookies und verwendet keine Tracking- oder
-Werbewerkzeuge. Unsere Rechtstexte sind statische Seiten bei [HOSTER DER
-RECHTSTEXTE]; dieser kann Ihre IP-Adresse in Server-Logs verarbeiten.
+Werbewerkzeuge. Unsere Rechtstexte sind statische Seiten bei GitHub Pages (GitHub, Inc., USA); dieser kann Ihre IP-Adresse in Server-Logs verarbeiten.
 
 ## 11. Änderungen
 

@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms of Service
 
-Last updated: 18 September 2026
+Last updated: 22 September 2026
 
 ## 1. Provider and scope
 
@@ -161,8 +161,7 @@ choice of law applies only insofar as it does not deprive them of the
 protection of mandatory provisions of their country of habitual residence
 (Art. 6 Rome I Regulation).
 
-12.2 Place of jurisdiction for businesses is [LOCATION OF THE COMPETENT
-COURT]. Consumers domiciled or habitually resident in Austria may only be
+12.2 Place of jurisdiction for businesses is the competent court in Vienna, Austria. Consumers domiciled or habitually resident in Austria may only be
 sued there (§ 14 KSchG); otherwise statutory jurisdiction applies.
 
 12.3 If any provision is invalid, the rest remains in effect.
