@@ -8,7 +8,7 @@ permalink: /
 
 Telegram-Bot, der oeffentlich zugaengliche Immobilieninserate aus fuenf
 oesterreichischen Portalen buendelt und ueber passende Angebote informiert.
-Bot: [@WohnKompassBot](https://t.me/WohnKompassBot)
+Bot: [@Wohnkompass_bot](https://t.me/Wohnkompass_bot)
 
 ## Deutsch
 
