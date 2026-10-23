@@ -10,7 +10,7 @@ Last updated: 18 September 2026
 
 Information pursuant to § 5 Austrian E-Commerce Act (ECG), § 14 Austrian
 Commercial Code (UGB, where applicable) and disclosure pursuant to § 25
-Austrian Media Act (MedienG) for the Telegram bot **WohnKompass** and its
+Austrian Media Act (MedienG) for the Telegram bot **FlatDrop (formerly WohnKompass)** and its
 related web pages.
 
 ## Service provider and media owner
@@ -43,11 +43,11 @@ Brigittenauer Laende 224-228, 1200 Vienna, Austria
 
 ## Third-party listings
 
-WohnKompass is not an estate agent and not a landlord. The listings shown
+FlatDrop is not an estate agent and not a landlord. The listings shown
 come from publicly accessible pages of the respective portals (including
 willhaben.at, immobilienscout24.at, immowelt.at, immobilien.derstandard.at
 and wg-gesucht.de). The advertisers and portals alone are responsible for the
-content, accuracy and availability of the listings. WohnKompass has no
+content, accuracy and availability of the listings. FlatDrop has no
 business relationship with these portals and is not endorsed by them.
 Trademarks belong to their respective owners.
 

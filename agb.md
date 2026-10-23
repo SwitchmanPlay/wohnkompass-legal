@@ -10,7 +10,7 @@ Stand: 22.09.2026
 
 ## 1. Anbieter und Geltungsbereich
 
-1.1 Anbieter des Telegram-Bots **WohnKompass** ist Danylo Prokhorenko,
+1.1 Anbieter des Telegram-Bots **FlatDrop (früher WohnKompass)** ist Danylo Prokhorenko,
 Brigittenauer Lände 224-228, 1200 Wien, Österreich, adamsmith6787@gmail.com („wir"). Weitere Angaben im Impressum.
 
 1.2 Diese AGB gelten für die Nutzung des Bots durch Verbraucher:innen und
@@ -21,7 +21,7 @@ Konsumentenschutzgesetz (KSchG) und dem Fern- und Auswärtsgeschäfte-Gesetz
 
 ## 2. Leistungsbeschreibung
 
-2.1 WohnKompass ruft in regelmäßigen Abständen öffentlich zugängliche
+2.1 FlatDrop ruft in regelmäßigen Abständen öffentlich zugängliche
 Inseratsseiten österreichischer Immobilienportale ab (derzeit u. a.
 willhaben.at, immobilienscout24.at, immowelt.at,
 immobilien.derstandard.at, wg-gesucht.de), gleicht sie mit Ihren
@@ -33,7 +33,7 @@ Warnhinweise („Red Flags") und KI-Bewerbungsentwürfe in den Stufen Premium
 und Premium Buy. Die jeweils aktuellen Funktionen und Kontingente werden im
 Bot angezeigt.
 
-2.3 WohnKompass ist kein Makler, Vermieter oder Portal. Wir melden uns nicht
+2.3 FlatDrop ist kein Makler, Vermieter oder Portal. Wir melden uns nicht
 bei Portalen an, kontaktieren keine Inserierenden und senden keine
 Nachrichten in Ihrem Namen. Entwürfe versenden Sie selbst.
 

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: WohnKompass - Impressum, Datenschutz, AGB
+title: FlatDrop - Impressum, Datenschutz, AGB
 permalink: /
 ---
 
-# WohnKompass
+# FlatDrop (früher WohnKompass)
 
 Telegram-Bot, der oeffentlich zugaengliche Immobilieninserate aus fuenf
 oesterreichischen Portalen buendelt und ueber passende Angebote informiert.
-Bot: [@Wohnkompass_bot](https://t.me/Wohnkompass_bot)
+Bot: [@flatdropbot](https://t.me/flatdropbot) · Website: [flatdrop.at](https://flatdrop.at)
 
 ## Deutsch
 

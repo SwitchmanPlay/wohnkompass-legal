@@ -6,9 +6,9 @@ permalink: /datenschutz/
 
 # Datenschutzerklärung
 
-Stand: 22.09.2026
+Stand: 23. Oktober 2026
 
-Diese Erklärung informiert darüber, wie der Telegram-Bot **WohnKompass**
+Diese Erklärung informiert darüber, wie der Telegram-Bot **FlatDrop (früher WohnKompass)**
 („wir", „der Bot") personenbezogene Daten nach der
 Datenschutz-Grundverordnung (DSGVO) und dem Datenschutzgesetz (DSG)
 verarbeitet.
@@ -83,6 +83,7 @@ Maklerin). Siehe Abschnitt 5.
 | Support-Anfragen | Art. 6 Abs. 1 lit. b DSGVO; sonst lit. f |
 | Missbrauchsschutz, Kontingente, Sicherheit, Fehlerprotokolle, Backups | Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einem sicheren, stabilen Dienst) |
 | Aggregierte Marktstatistik (z. B. Median-Miete je Bezirk) | Art. 6 Abs. 1 lit. f DSGVO; enthält keine Nutzerdaten |
+| Öffentliche Inseratsseiten auf der Website (Fakten, erstes Foto, eigener Text) | Art. 6 Abs. 1 lit. f DSGVO; Wohnungssuchenden aktuelle Angebote zeigen; keine personenbezogenen Daten der Inserierenden |
 | Erfassung und Verarbeitung öffentlicher Inserate | Art. 6 Abs. 1 lit. f DSGVO (Interesse der Wohnungssuchenden und unseres, veröffentlichte Angebote zu finden) |
 | Optionale Funktionen, die Sie aktivieren (z. B. Bewerberprofil, Kanal-Prüfung) | Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), soweit erforderlich; jederzeit widerrufbar |
 
@@ -127,9 +128,15 @@ Garantien erhalten Sie auf Anfrage.
 Inserate werden nur von Seiten erfasst, die die Portale öffentlich
 bereitstellen. Wir melden uns nicht bei Portalen an und kontaktieren keine
 Inserierenden. Inseratsdaten dienen dazu, Wohnungssuchenden das Angebot
-anzuzeigen, und in anonymisierter Form für Preisstatistiken. Inserierende
-können jederzeit widersprechen (Abschnitt 8); das Inserat wird dann
-ausgeschlossen.
+anzuzeigen, in anonymisierter Form für Preisstatistiken und für eine
+öffentliche Seite je aktuellem Wiener Inserat auf unserer Website. Diese
+Seite zeigt nur Fakten zur Wohnung (Bezirk und Postleitzahl, nie die
+Adresse; Größe, Zimmer, Preis), das erste Foto mit Quellenangabe und Link zum
+Original-Inserat sowie einen von uns verfassten Kurztext samt Bewertung --
+nie den Text des Inserats, Namen, Telefonnummern oder E-Mail-Adressen.
+Inserierende können jederzeit widersprechen (Abschnitt 8 oder der
+„Entfernen“-Link auf jeder Seite); das Inserat wird dann ausgeschlossen und
+die Seite entfernt.
 
 ## 6. Speicherdauer
 
@@ -138,6 +145,7 @@ ausgeschlossen.
 | Konto, Suchen, Profil, Treffer, Entwürfe | bis Sie sie löschen oder `/deleteme` senden; Suchen von Nutzer:innen, die 45 Tage inaktiv sind, werden pausiert, Konten nach 24 Monaten Inaktivität gelöscht |
 | Inserate-Pool (samt Treffern, KI-Bewertungen) | 90 Tage nach der letzten Sichtung des Inserats |
 | Aggregierte Preisstatistik | unbefristet (keine personenbezogenen Daten) |
+| Öffentliche Inseratsseiten | solange das Inserat online ist, dann als „vergeben“ markiert und 60 Tage später entfernt |
 | Nutzungsereignisse | 7 Tage |
 | Support-Nachrichten | 12 Monate nach Abschluss der Anfrage |
 | Empfehlungs- und Promo-Einlösungsdaten | solange Ihr Konto besteht |
