@@ -10,7 +10,7 @@ Last updated: 18 September 2026
 
 ## 1. Provider and scope
 
-1.1 The Telegram bot **WohnKompass** is provided by Danylo Prokhorenko,
+1.1 The Telegram bot **FlatDrop (formerly WohnKompass)** is provided by Danylo Prokhorenko,
 Brigittenauer Laende 224-228, 1200 Vienna, Austria, adamsmith6787@gmail.com ("we"). See the legal notice for details.
 
 1.2 These terms apply to consumers and businesses using the bot. Other terms
@@ -20,7 +20,7 @@ Contracts Act (FAGG) remain unaffected.
 
 ## 2. The service
 
-2.1 WohnKompass regularly retrieves publicly accessible listing pages of
+2.1 FlatDrop regularly retrieves publicly accessible listing pages of
 real-estate portals (currently including willhaben.at,
 immobilienscout24.at, immowelt.at, immobilien.derstandard.at,
 wg-gesucht.de), matches them against your saved searches and notifies you on
@@ -31,7 +31,7 @@ the Free tier; instant alerts, an AI fit score, red-flag warnings and
 AI-drafted application messages in the Premium and Premium Buy tiers. The
 current features and quotas are shown in the bot.
 
-2.3 WohnKompass is not an estate agent, landlord or portal. We do not log in
+2.3 FlatDrop is not an estate agent, landlord or portal. We do not log in
 to portals, do not contact advertisers and do not send messages on your
 behalf. You send any draft yourself.
 

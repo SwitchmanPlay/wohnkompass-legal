@@ -6,9 +6,9 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: 18 September 2026
+Last updated: 23 October 2026
 
-This policy explains how the Telegram bot **WohnKompass** ("we", "the bot")
+This policy explains how the Telegram bot **FlatDrop (formerly WohnKompass)** ("we", "the bot")
 processes personal data under the EU General Data Protection Regulation
 (GDPR) and the Austrian Data Protection Act (DSG).
 
@@ -75,6 +75,7 @@ personal data of advertisers (e.g. an agent's name). See section 5.
 | Support requests | Art. 6(1)(b) GDPR; otherwise Art. 6(1)(f) |
 | Abuse prevention, rate limits, security, error logs, backups | Art. 6(1)(f) GDPR (legitimate interest in a secure, stable service) |
 | Aggregated market statistics (e.g. median rent per district) | Art. 6(1)(f) GDPR; statistics contain no user data |
+| Public listing pages on the website (facts, first photo, our own text) | Art. 6(1)(f) GDPR; helping home seekers find current offers; no personal data of advertisers is published |
 | Collecting and processing public listings | Art. 6(1)(f) GDPR (interest of home seekers and ours in finding published offers) |
 | Optional features you switch on (e.g. applicant profile, channel membership check) | Art. 6(1)(a) GDPR (consent) where required; withdrawable at any time |
 
@@ -117,9 +118,14 @@ available on request.
 
 Listings are collected only from pages the portals publish openly. We do not
 log into portals and do not contact advertisers. Listing data is used to
-show the offer to home seekers and, in anonymised form, for price
-statistics. Advertisers can object at any time (see section 8); we will then
-exclude the listing.
+show the offer to home seekers, in anonymised form for price statistics, and
+for a public page per current Vienna listing on our website. That page shows
+only facts about the home (district and postcode, never the address; size,
+rooms, price), the first photo with a credit and a link to the original ad,
+and a short text and score written by us -- never the ad's own text, names,
+phone numbers or e-mail addresses. Advertisers can object at any time (see
+section 8, or the "remove" link on each page); we will then exclude the
+listing and take its page down.
 
 ## 6. Retention
 
@@ -128,6 +134,7 @@ exclude the listing.
 | Account, searches, profile, matches, drafts | until you delete them or use `/deleteme`; searches of users inactive for 45 days are paused, accounts inactive for 24 months are deleted |
 | Listings pool (and linked matches, AI scores) | 90 days after the listing was last seen |
 | Aggregated price statistics | indefinitely (no personal data) |
+| Public listing pages | while the listing is online, then marked "taken" and removed 60 days later |
 | Usage events | 7 days |
 | Support messages | 12 months after the request is closed |
 | Referral and promo redemption records | as long as your account exists |

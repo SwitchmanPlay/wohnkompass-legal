@@ -10,7 +10,7 @@ Stand: 18.09.2026
 
 Informationen gemäß § 5 E-Commerce-Gesetz (ECG), § 14 Unternehmensgesetzbuch
 (UGB, soweit anwendbar) und Offenlegung gemäß § 25 Mediengesetz (MedienG) für
-den Telegram-Bot **WohnKompass** und die zugehörigen Webseiten.
+den Telegram-Bot **FlatDrop (früher WohnKompass)** und die zugehörigen Webseiten.
 
 ## Diensteanbieter und Medieninhaber
 
@@ -43,12 +43,12 @@ Brigittenauer Lände 224-228, 1200 Wien, Österreich
 
 ## Hinweis zu Inseraten Dritter
 
-WohnKompass ist kein Immobilienmakler und kein Vermieter. Die angezeigten
+FlatDrop ist kein Immobilienmakler und kein Vermieter. Die angezeigten
 Inserate stammen von öffentlich zugänglichen Seiten der jeweiligen Portale
 (u. a. willhaben.at, immobilienscout24.at, immowelt.at,
 immobilien.derstandard.at, wg-gesucht.de). Für Inhalt, Richtigkeit und
 Verfügbarkeit der Inserate sind ausschließlich die Inserentinnen und
-Inserenten bzw. die Portale verantwortlich. WohnKompass steht in keiner
+Inserenten bzw. die Portale verantwortlich. FlatDrop steht in keiner
 Geschäftsbeziehung zu diesen Portalen und wird von ihnen nicht unterstützt.
 Markennamen gehören ihren jeweiligen Inhabern.
 
