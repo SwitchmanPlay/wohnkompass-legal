@@ -181,6 +181,19 @@ The bot sets no cookies and uses no tracking or advertising tools. Our legal
 pages are static pages hosted at GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA (GitHub Pages) - for these legal pages only; the host may
 process your IP address in server logs.
 
+**Visitor statistics on flatdrop.at.** The website sets no cookies and
+loads no third-party tracking. To see how many people and bots visit, our
+website itself (running on Cloudflare, Cloudflare Inc., USA, as processor)
+adds each page view to daily totals: page, country (from Cloudflare's
+network, not from your IP address), language, device type (mobile/desktop),
+the website you came from, and, for bots, the bot's name. To count unique
+visitors per day we compute a one-way hash of your IP address and browser
+identifier together with a random value that changes every day and is
+deleted the next day. Your IP address is never stored, and the hash cannot
+be linked to you or across days. Clicks on the "open in Telegram" buttons are
+counted per button. Legal basis: Art. 6(1)(f) GDPR (understanding how the
+website is used and improving it). Daily totals are kept for up to 400 days.
+
 ## 11. Changes
 
 We may update this policy when the service changes. The date at the top shows

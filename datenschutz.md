@@ -194,6 +194,21 @@ Art. 33-34 DSGVO.
 Der Bot setzt keine Cookies und verwendet keine Tracking- oder
 Werbewerkzeuge. Unsere Rechtstexte sind statische Seiten bei GitHub Pages (GitHub, Inc., USA); dieser kann Ihre IP-Adresse in Server-Logs verarbeiten.
 
+**Besucherstatistik auf flatdrop.at.** Die Website setzt keine Cookies und
+lädt kein Tracking von Dritten. Um zu sehen, wie viele Menschen und Bots die
+Seite besuchen, zählt unsere Website selbst (betrieben bei Cloudflare,
+Cloudflare Inc., USA, als Auftragsverarbeiter) jeden Seitenaufruf in
+Tagessummen: Seite, Land (aus dem Netz von Cloudflare, nicht aus Ihrer
+IP-Adresse gespeichert), Sprache, Gerätetyp (mobil/Desktop), die Seite, von
+der Sie kamen, und bei Bots deren Namen. Um eindeutige Besucher pro Tag zu
+zählen, bilden wir einen Einweg-Hash aus IP-Adresse und Browserkennung
+zusammen mit einem Zufallswert, der sich täglich ändert und am Folgetag
+gelöscht wird. Ihre IP-Adresse wird nie gespeichert, und der Hash lässt sich
+weder Ihnen noch über Tage hinweg zuordnen. Klicks auf die Schaltflächen
+„In Telegram öffnen“ werden je Schaltfläche gezählt. Rechtsgrundlage:
+Art. 6 Abs. 1 lit. f DSGVO (Nutzung der Website verstehen und verbessern).
+Die Tagessummen werden höchstens 400 Tage aufbewahrt.
+
 ## 11. Änderungen
 
 Wir passen diese Erklärung an, wenn sich der Dienst ändert. Das Datum oben
