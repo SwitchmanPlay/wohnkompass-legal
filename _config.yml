@@ -1,3 +1,5 @@
 title: FlatDrop - Legal
-description: Impressum, Datenschutz und AGB des Telegram-Bots FlatDrop
+description: The legal pages moved to flatdrop.at
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
